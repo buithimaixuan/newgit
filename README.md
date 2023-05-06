@@ -1,2 +1,3 @@
 # newgit
 bubble
+selection sort
